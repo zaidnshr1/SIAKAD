@@ -7,10 +7,10 @@ Mahasiswa: Pemilihan mata kuliah, cetak KRS PDF.
 Dosen: Persetujuan atau penolakan KRS mahasiswa.
 
 Persyaratan Sistem
--- PHP 8.0 atau lebih baru
--- Composer
--- MySQL / MariaDB
--- Git
+PHP 8.0 atau lebih baru
+Composer
+MySQL / MariaDB
+Git
 
 Instalasi
 1. Clone Repository
